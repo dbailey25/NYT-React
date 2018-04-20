@@ -1,0 +1,11 @@
+.title {
+  height: 200px;
+  clear: both;
+  text-align: center;
+  background-color: blue;
+  color: white;
+}
+
+h1 {
+  text-decoration: underline;
+}
